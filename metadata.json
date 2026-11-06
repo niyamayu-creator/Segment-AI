@@ -1,0 +1,8 @@
+{
+  "name": "SEGMENTAI",
+  "description": "Plataforma Inteligente de Segmentación Estratégica de Mercados y Clientes con Machine Learning e Inteligencia Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
